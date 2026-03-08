@@ -1,0 +1,34 @@
+# Залежності
+node_modules
+
+# Зібрані файли
+dist
+dist-ssr
+
+# Логи
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Локальні env-файли
+*.local
+.env
+.env.*
+
+# Редактори та IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS файли
+.DS_Store
+Thumbs.db
